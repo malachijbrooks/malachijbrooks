@@ -1,4 +1,4 @@
-<h1>Hello, Welcome to ✨ Malachi Brooks' ✨ Scholastic Portfolio</h1>
+<h1>✨ Hello, Welcome to Malachi Brooks' Scholastic Portfolio ✨</h1>
 
 <h2>ABOUT ME</h2>
 
