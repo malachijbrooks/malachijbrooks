@@ -33,7 +33,7 @@
 >
 ## <h2>Athletics</h2>
 
-### • [*Swimming*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Basketball*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Martial Arts: Kung Fu*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
+### • [*Swimming*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Basketball*](https://github.com/malachijbrooks/sports/blob/Basketball/README.md) </br> • [*Martial Arts: Kung Fu*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
 
 
 ## <h2>Other Extracurricular Activities</h2>
