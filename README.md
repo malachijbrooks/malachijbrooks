@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1>Hello, Welcome to ✨ Malachi Brooks' ✨ Scholastic Portfolio</h1>
 
-<!--
-**malachijbrooks/malachijbrooks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>ABOUT ME</h2>
 
-Here are some ideas to get you started:
+### *Summary*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>**Goals:**
+>**Hobbies/Interest:**
+
+<h2>Academics</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
+
+>**Highlights:** 
+
+## <h2>STEM Projects</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
+
+>**Highlights:** s 
+
+## <h2>Art Projects</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
+
+>**Highlights:**
+
+## <h2>Awards/Recognition</h2>
+
+### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
+
+>**Highlights:**
+>
+## <h2>Athletics</h2>
+
+### • [*Swimming*](https://github.com/darylcbrooks/project-1/blob/project-27/README.md) </br> • [*Basketball*](https://github.com/darylcbrooks/project-1/blob/project-47/README.md) </br> • [*Martial Arts: Kung Fu*](https://github.com/darylcbrooks/project-1/blob/project-70/README.md) </br>
+
+
+## <h2>Other Extracurricular Activities</h2>
+
+### • Comming Soon
+
+
+## <h2>Assignments & Projects</h2>
+
+### • Coming Soon
