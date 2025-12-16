@@ -38,7 +38,7 @@
 
 ## <h2>Other Extracurricular Activities</h2>
 
-### • Comming Soon
+### • Coming Soon
 
 
 ## <h2>Assignments & Projects</h2>
