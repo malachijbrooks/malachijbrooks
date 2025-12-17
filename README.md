@@ -8,7 +8,7 @@
 
 ## <h2>🎓 Academics 🎓</h2>
 
-### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
+### [*Found Here*](https://github.com/malachijbrooks/malachijbrooks/blob/Academics/README.md) 
 
 >**Highlights:** 
 
