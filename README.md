@@ -32,7 +32,7 @@
 
 ## <h2>🏆 Awards/Recognition 🏆</h2>
 
-### [*Found Here*](https://github.com/darylcbrooks/vuln-anal/blob/main/README.md)
+### [*Found Here*](https://github.com/malachijbrooks/malachijbrooks/blob/Awards/README.md)
 
 >**Highlights:**
 >
