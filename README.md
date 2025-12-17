@@ -14,7 +14,7 @@
 
 ## <h2>⚙️ STEM Projects ⚙️</h2>
 
-### [*Found Here*](https://github.com/darylcbrooks/blue-team/blob/main/README.md)
+### [*Found Here*](https://github.com/malachijbrooks/malachijbrooks/blob/STEM-Projects/README.md)
 
 >**Highlights:**  
 
