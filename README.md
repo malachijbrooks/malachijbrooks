@@ -21,7 +21,7 @@
 
 ## <h2>📝 Assignments & Projects 📝</h2>
 
-### • Coming Soon
+### • [*Found Here*](https://github.com/malachijbrooks/malachijbrooks/blob/School-Projects/README.md)
 
 
 ## <h2>🎭 Art Projects 🎨</h2>
