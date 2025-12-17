@@ -26,7 +26,7 @@
 
 ## <h2>🎭 Art Projects 🎨</h2>
 
-### [*Found Here*](https://github.com/darylcbrooks/red-team/blob/main/README.md)
+### [*Found Here*](https://github.com/malachijbrooks/malachijbrooks/blob/Art-Projects/README.md)
 
 >**Highlights:**
 
