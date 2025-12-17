@@ -7,8 +7,13 @@
 
 
 
-![Image](https://github.com/malachijbrooks/sports/blob/kungfu-2025/Malachi%20-%20Green%20Belt.jpg)
+![Image](https://github.com/malachijbrooks/malachijbrooks/blob/awards-2025/Malachi%20-%20Basketball%20Awards%20Ceremony%202025.jpg)
 
 
+### [Malachi - 2024 - 2025 FTH Basketball Season]
 
-![Image](https://github.com/malachijbrooks/sports/blob/kungfu-2025/Malachi%20-%20Green%20Belt.jpg)
+
+![Image](https://github.com/malachijbrooks/malachijbrooks/blob/awards-2025/Malachi%20-%20Basketball%20Awards%20Ceremony%202025%20pt%202.jpg)
+
+
+### [Malachi - 2024 - 2025 FTH Basketball Season]
