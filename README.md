@@ -4,8 +4,7 @@
 
 ### *Summary*
 
->**Goals:**
->**Hobbies/Interest:**
+>**Goals:**</br>**Hobbies/Interest:**
 
 <h2>Academics</h2>
 
