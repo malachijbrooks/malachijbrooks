@@ -6,7 +6,7 @@
 
 >**Goals:**</br>**Hobbies/Interest:**
 
-🎓<h2>Academics</h2>🎓
+<h2>🎓Academics🎓</h2>
 
 ### [*Found Here*](https://github.com/darylcbrooks/project-1/blob/Projects/README.md) 
 
@@ -32,7 +32,7 @@
 >
 ## 🎽<h2>Athletics</h2>🎽
 
-### • 🏊🏽‍♂️[*Swimming*](https://github.com/malachijbrooks/sports/blob/Swimming/README.md)🏊🏽‍♂️</br> • 🏀[*Basketball*](https://github.com/malachijbrooks/sports/blob/Basketball/README.md)🏀</br> • 🥋[*Martial Arts: Kung Fu*](https://github.com/malachijbrooks/sports/tree/Martial-Arts/README.md)🥋</br>• 👟[*Track & Field*](https://github.com/malachijbrooks/sports/blob/Track-%26-Field/README.md)👟</br>• ⛳[*Golf*](https://github.com/malachijbrooks/sports/blob/Golf/README.md)⛳
+### • 🏊🏽‍♂️[*Swimming*](https://github.com/malachijbrooks/sports/blob/Swimming/README.md)</br> • 🏀[*Basketball*](https://github.com/malachijbrooks/sports/blob/Basketball/README.md)</br> • 🥋[*Martial Arts: Kung Fu*](https://github.com/malachijbrooks/sports/tree/Martial-Arts/README.md)</br>• 👟[*Track & Field*](https://github.com/malachijbrooks/sports/blob/Track-%26-Field/README.md)</br>• ⛳[*Golf*](https://github.com/malachijbrooks/sports/blob/Golf/README.md)
 
 
 ## <h2>Other Extracurricular Activities</h2>
